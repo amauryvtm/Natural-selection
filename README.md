@@ -1,4 +1,4 @@
-# Natural-selection
+# Natural-selection (à actualiser!)
 
 Simulation d'évolution de population sous sélection naturelle, visualisée en 4D.  
 X = trait phénotypique A · Y = trait phénotypique B · Z = fitness moyen · T = temps (animation)
